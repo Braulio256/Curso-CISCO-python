@@ -9,3 +9,9 @@ print(15e-3)#Y tambien se pueden escribir utilizando la letra e
 
 print('Cadena')#Y tambien estan los String o cadenas que son las que van entre comillas simples o dobles
 print("")#Si se tienen solo las comillas sigue siendo una cadena
+
+print(True > False)#Entre las literales que hay en python tambien estan los valores booleanos
+print(True < False)#Estos permiten al codigo decir si o no
+#Ejemplo
+print(100<299)#Esto por ejemplo da como resultado True
+print(299<100)#Esto por ejemplo da como resultado False
