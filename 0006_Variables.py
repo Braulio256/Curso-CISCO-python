@@ -2,7 +2,7 @@
 #Ejemplo: if, while, for, break, etc.
 
 #Se pueden usar para cualquier cosa dentro del codigo
-#Ejemplo:
+#Ejemplos:
 nombre = "Braulio"
 edad = 25
 altura = 1.93
