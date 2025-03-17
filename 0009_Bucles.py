@@ -25,3 +25,23 @@ while counter:
     counter -= 1
 print("Fuera del bucle.", counter)
 
+#Bucle for
+#Equivalente en bucle while
+print("\n\n")
+i = 0
+while i < 5:
+    print(i)
+    i += 1
+#Ejemplos
+print("\n\n")
+for i in range(5):
+    print(i)
+    i += 1
+    pass
+
+print("\n\n")
+res = 1
+for exponente in range(16):
+    print("2 a la potencia de", exponente, "es", res)
+    res *= 2
+
